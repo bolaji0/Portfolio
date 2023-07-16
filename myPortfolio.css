@@ -367,6 +367,57 @@ dashboard,a{
     line-height: normal;
 }
 
+form{
+    width: 80%;
+}
+
+.flex2{
+    display: flex;
+    /* justify-content: center; */
+    /* margin: auto; */
+    justify-content: space-evenly;
+    width: 95%;
+    border-bottom: #171717;
+    background: #171717;
+    color: #4F4F4F;
+
+    margin-top: 30px;
+}
+
+input{
+    background: #171717;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid #4F4F4F;
+    width: 45%;
+
+    margin-top:30px;
+}
+
+textarea{
+    background: #171717;
+    color: #4F4F4F;
+    border: 1px solid #4F4F4F;
+    width: 95%;
+
+    height: 20vh;
+    padding: 10px 0 0 10px;
+}
+
+.last{
+    margin-bottom: 30px;
+}
+
+.text{
+    margin: auto;
+    width: 95%;
+    border-bottom: #171717;
+    background: #171717;
+    color: #4F4F4F;
+}
+
+
 
 
 
